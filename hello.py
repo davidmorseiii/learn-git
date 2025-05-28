@@ -3,7 +3,7 @@
 user_input = ""
 attempts = 0
 
-while user_input != "green":
+while user_input.lower() != "green":
     user_input = input("What is the magic color? ")
     attempts += 1
     if user_input != "green":
