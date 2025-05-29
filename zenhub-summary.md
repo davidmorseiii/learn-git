@@ -1,0 +1,2 @@
+ZenHub Reflection:
+Zenhub is a project management tool that can directly integrate with GitHub. It allows a development team to manage and track progress of tasks. Features like boards, epics, sprints, and burndown chart are useful for keeping things organized and hitting deadlines. I think that tools like this are useful in software engineering becasue they improve collaboration and efficiency through the lifecycle of the development. Visualizing tasks is very powerful tool that helps teams better plan, prioritize, and deliver software.
